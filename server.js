@@ -8,7 +8,7 @@ const html = `
     <title>Homework</title>
   </head>
   <body>
-    <h1>Homework</h1>
+    <h1>Git homework</h1>
     <p>simple Node.js server</p>
   </body>
   </html>
