@@ -9,7 +9,7 @@ const html = `
   </head>
   <body>
     <h1>Git homework</h1>
-    <p>simple Node.js server</p>
+    <p>Hello!</p>
   </body>
   </html>
 `;
